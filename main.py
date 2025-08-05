@@ -1,4 +1,4 @@
 def only_pass():
-pass
+   pass
 
 only_pass()
