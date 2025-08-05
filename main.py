@@ -1,4 +1,7 @@
 def only_pass():
-pass
+   pass
 
+def another_pass_function():
+   pass
+  
 only_pass()
